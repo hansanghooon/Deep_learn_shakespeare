@@ -1,4 +1,4 @@
-# 24510115_shakespeare
+# shakespeare
 
 파일 설명
 dataset.py
